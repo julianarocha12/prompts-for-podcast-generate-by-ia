@@ -5,6 +5,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
+A Sociedade do HTML: A Magia do Código Front-End
+
+Você é um roteirista de podastm e vamos criar um roteiro de um podcat de tecnologia, focado em front end cujo nome é "A Sociedade do HTML: A Magia do Código Front-End" com o publico alvo de iniciantes em front end.
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+>no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduçoes dos videos do canal 'ei nerd', como se fossem escrito pelo Peter Jordan.
+>no bloco [CURIOSIDADE 1] substitua por uma curiosdade de HTML.
+ >no bloco [CURIOSIDADE 2] substitua por uma ferramenta para frond ends.
+>no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final " Eu sou a Juliana e esse foi A Sociedade do HTML dessa semana'
+> use termos de facil explicação
+> O podcast vai ser apresentado somente por uma pessoa, chamada Juliana
+> O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+> Nao use muitos terms tecnicos
+> Nao ultrapasse 5 minutos de duração
